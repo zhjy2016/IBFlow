@@ -17,6 +17,10 @@ Kang Zhao<sup>2</sup>
 <sup>3</sup>HKUST;
 <sup>4</sup>Beijing Normal University
 
+<p align="center">
+  <img src="assets/pipeline.png" width="90%">
+</p>
+
 ## Overview
 
 IB-Flow enables high-quality text-to-image generation with only <b>2 NFEs</b>.
