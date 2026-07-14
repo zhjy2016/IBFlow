@@ -17,13 +17,13 @@ Kang Zhao<sup>2</sup>
 <sup>3</sup>HKUST;
 <sup>4</sup>Beijing Normal University
 
-<p align="center">
-  <img src="assets/pipeline.png" width="90%">
-</p>
-
 ## Overview
 
 IB-Flow enables high-quality text-to-image generation with only <b>2 NFEs</b>.
+
+<p align="center">
+  <img src="assets/pipeline.png" width="80%">
+</p>
 
 Few-step distillation greatly reduces the inference cost of diffusion models, but fixed guidance
 does not account for how generation changes from global structure formation to detail refinement.
