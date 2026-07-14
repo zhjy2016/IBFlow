@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use IB-Flow in your research, please cite the paper below."
+title: "IB-Flow"
+type: software
+license: Apache-2.0
+url: "https://github.com/zhjy2016/IBFlow"
+repository-code: "https://github.com/zhjy2016/IBFlow"
+authors:
+  - family-names: Wang
+    given-names: Yiting
+  - family-names: Zhang
+    given-names: Jingyi
+  - family-names: Zhang
+    given-names: Wenhu
+  - family-names: Chao
+    given-names: Ke
+  - family-names: Liang
+    given-names: Yves
+  - family-names: Cheng
+    given-names: Kun
+  - family-names: Zhao
+    given-names: Kang
+preferred-citation:
+  type: article
+  title: "IB-Flow: Information Bottleneck-Guided CFG Distillation for Few-Step Text-to-Image Generation"
+  authors:
+    - family-names: Wang
+      given-names: Yiting
+    - family-names: Zhang
+      given-names: Jingyi
+    - family-names: Zhang
+      given-names: Wenhu
+    - family-names: Chao
+      given-names: Ke
+    - family-names: Liang
+      given-names: Yves
+    - family-names: Cheng
+      given-names: Kun
+    - family-names: Zhao
+      given-names: Kang
+  year: 2026
+  url: "https://arxiv.org/pdf/2607.09133v1"

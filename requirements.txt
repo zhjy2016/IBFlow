@@ -1,0 +1,20 @@
+numpy==1.26.4
+mmcv @ git+https://github.com/open-mmlab/mmcv.git@d409eedc816fccfb1c8d57e5eed5f03bd075f327
+mmgen @ git+https://github.com/Lakonik/mmgeneration.git@500a93e474638c87dcaf8fad94cfbe1ef29acd1f
+diffusers==0.35.1
+peft==0.17.0
+transformers==4.54.1
+sentencepiece
+accelerate
+tensorboard
+setuptools
+bitsandbytes
+yapf==0.40.1
+zstandard
+imageio
+datasets
+safetensors
+huggingface-hub
+opencv-python
+orjson
+tqdm

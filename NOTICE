@@ -1,0 +1,25 @@
+IB-Flow
+
+This product includes software derived from:
+
+1. ArcFlow — https://github.com/pnotp/ArcFlow
+   Copyright (c) 2025 ArcFlow contributors.
+   Licensed under the Apache License, Version 2.0.
+
+2. pi-Flow — https://github.com/Lakonik/piFlow
+   Copyright (c) 2025 Hansheng Chen.
+   Licensed under the Apache License, Version 2.0.
+
+3. MMGeneration — https://github.com/open-mmlab/mmgeneration
+   Copyright (c) OpenMMLab.
+   Licensed under the Apache License, Version 2.0.
+
+4. EPro-PnP timer utility —
+   https://github.com/tjiiv-cprg/EPro-PnP/tree/42412220b641aef9e8943ceba516b3175631d370
+   Copyright (C) 2010-2022 Alibaba Group Holding Limited.
+   The source-file copyright notice is retained in
+   `lakonlab/runner/timer.py`; see the upstream repository for its terms.
+
+The derived source files retain their upstream copyright notices. IB-Flow adds
+Information Bottleneck-guided dynamic CFG distillation and release-specific
+training, export, and inference workflows. See LICENSE for the complete terms.
